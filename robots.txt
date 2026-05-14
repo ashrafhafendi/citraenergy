@@ -1,0 +1,15 @@
+# robots.txt untuk citra energy enterprise
+# Dihasilkan pada: 2025
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.citraenergy.biz/sitemap.xml
+
+# Disallow - halaman yang tidak perlu diindex
+Disallow: /images/
+Disallow: /videos/
+
+# Crawl delay untuk kurangkan beban server
+Crawl-delay: 1
